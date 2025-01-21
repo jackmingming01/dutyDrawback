@@ -1,0 +1,2271 @@
+{
+  "claims": [
+  {
+    "claimID": 2885,
+    "importerName": "Importer_47",
+    "HTSCode": "2320.98.25.44",
+    "importDate": "2024-12-03",
+    "importQuantity": 5647,
+    
+    
+    "dutiesPaid": 17576.28,
+    "drawbackClaimed": 766.58
+  },
+  {
+    "claimID": 5856,
+    "importerName": "Importer_25",
+    "HTSCode": "8420.22.25.30",
+    "importDate": "2024-12-22",
+    "importQuantity": 941,
+    
+    
+    "dutiesPaid": 19254.05,
+    "drawbackClaimed": 12052.72
+  },
+  {
+    "claimID": 9871,
+    "importerName": "Importer_33",
+    "HTSCode": "6972.90.42.64",
+    "importDate": "2024-12-14",
+    "importQuantity": 7887,
+    
+    
+    "dutiesPaid": 3935.0,
+    "drawbackClaimed": 576.79
+  },
+  {
+    "claimID": 1232,
+    "importerName": "Importer_28",
+    "HTSCode": "5523.26.91.14",
+    "importDate": "2024-12-09",
+    "importQuantity": 2047,
+    
+    
+    "dutiesPaid": 5871.84,
+    "drawbackClaimed": 2936.56
+  },
+  {
+    "claimID": 1880,
+    "importerName": "Importer_26",
+    "HTSCode": "7163.42.42.43",
+    "importDate": "2024-12-27",
+    "importQuantity": 9212,
+    
+    
+    "dutiesPaid": 15027.43,
+    "drawbackClaimed": 12623.13
+  },
+  {
+    "claimID": 2484,
+    "importerName": "Importer_46",
+    "HTSCode": "1147.22.90.73",
+    "importDate": "2024-12-04",
+    "importQuantity": 9517,
+    
+    
+    "dutiesPaid": 9252.87,
+    "drawbackClaimed": 2669.01
+  },
+  {
+    "claimID": 3335,
+    "importerName": "Importer_8",
+    "HTSCode": "3600.91.17.41",
+    "importDate": "2024-12-23",
+    "importQuantity": 8336,
+    
+    
+    "dutiesPaid": 12080.94,
+    "drawbackClaimed": 3967.11
+  },
+  {
+    "claimID": 2731,
+    "importerName": "Importer_41",
+    "HTSCode": "1493.29.46.19",
+    "importDate": "2024-11-18",
+    "importQuantity": 7122,
+    
+    
+    "dutiesPaid": 12268.77,
+    "drawbackClaimed": 8048.77
+  },
+  {
+    "claimID": 6082,
+    "importerName": "Importer_41",
+    "HTSCode": "2320.90.25.40",
+    "importDate": "2024-12-19",
+    "importQuantity": 4105,
+    
+    
+    "dutiesPaid": 5530.24,
+    "drawbackClaimed": 5287.33
+  },
+  {
+    "claimID": 3611,
+    "importerName": "Importer_44",
+    "HTSCode": "7208.57.33.33",
+    "importDate": "2024-12-08",
+    "importQuantity": 1456,
+    
+    
+    "dutiesPaid": 14953.67,
+    "drawbackClaimed": 581.0
+  },
+  {
+    "claimID": 1880,
+    "importerName": "Importer_26",
+    "HTSCode": "7163.42.42.43",
+    "importDate": "2024-12-18",
+    "importQuantity": 9212,
+    
+    
+    "dutiesPaid": 15027.43,
+    "drawbackClaimed": 12623.13
+  },
+  {
+    "claimID": 2484,
+    "importerName": "Importer_46",
+    "HTSCode": "1147.22.90.73",
+    "importDate": "2024-12-25",
+    "importQuantity": 9517,
+    
+    
+    "dutiesPaid": 9252.87,
+    "drawbackClaimed": 2669.01
+  },
+  {
+    "claimID": 3335,
+    "importerName": "Importer_8",
+    "HTSCode": "3600.91.17.41",
+    "importDate": "2024-01-06",
+    "importQuantity": 8336,
+    
+    
+    "dutiesPaid": 12080.94,
+    "drawbackClaimed": 3967.11
+  },
+  {
+    "claimID": 2731,
+    "importerName": "Importer_41",
+    "HTSCode": "1493.29.46.19",
+    "importDate": "2024-12-15",
+    "importQuantity": 7122,
+    
+    
+    "dutiesPaid": 12268.77,
+    "drawbackClaimed": 8048.77
+  },
+  {
+    "claimID": 6082,
+    "importerName": "Importer_41",
+    "HTSCode": "2289.90.18.40",
+    "importDate": "2024-05-14",
+    "importQuantity": 4105,
+    
+    
+    "dutiesPaid": 5530.24,
+    "drawbackClaimed": 5287.33
+  },
+  {
+    "claimID": 3611,
+    "importerName": "Importer_44",
+    "HTSCode": "7208.57.33.33",
+    "importDate": "2024-10-27",
+    "importQuantity": 1456,
+    
+    
+    "dutiesPaid": 14953.67,
+    "drawbackClaimed": 581.0
+  },
+  {
+    "claimID": 8708,
+    "importerName": "Importer_1",
+    "HTSCode": "8003.58.64.38",
+    "importDate": "2024-09-04",
+    "importQuantity": 3920,
+    
+    
+    "dutiesPaid": 2006.45,
+    "drawbackClaimed": 12683.91
+  },
+  {
+    "claimID": 2519,
+    "importerName": "Importer_17",
+    "HTSCode": "5967.74.37.45",
+    "importDate": "2024-04-05",
+    "importQuantity": 7155,
+    
+    
+    "dutiesPaid": 5690.88,
+    "drawbackClaimed": 13207.17
+  },
+  {
+    "claimID": 2717,
+    "importerName": "Importer_13",
+    "HTSCode": "6226.95.90.15",
+    "importDate": "2024-02-14",
+    "importQuantity": 2356,
+    
+    
+    "dutiesPaid": 16942.79,
+    "drawbackClaimed": 13186.57
+  },
+  {
+    "claimID": 4392,
+    "importerName": "Importer_38",
+    "HTSCode": "7402.39.35.64",
+    "importDate": "2024-03-14",
+    "importQuantity": 9816,
+    
+    
+    "dutiesPaid": 10790.08,
+    "drawbackClaimed": 9424.66
+  },
+  {
+    "claimID": 1590,
+    "importerName": "Importer_36",
+    "HTSCode": "3541.70.23.30",
+    "importDate": "2024-06-29",
+    "importQuantity": 2487,
+    
+    
+    "dutiesPaid": 9503.45,
+    "drawbackClaimed": 8348.01
+  },
+  {
+    "claimID": 1722,
+    "importerName": "Importer_2",
+    "HTSCode": "7154.96.85.13",
+    "importDate": "2024-12-18",
+    "importQuantity": 5063,
+    
+    
+    "dutiesPaid": 14057.12,
+    "drawbackClaimed": 9403.17
+  },
+  {
+    "claimID": 7085,
+    "importerName": "Importer_26",
+    "HTSCode": "4536.95.63.15",
+    "importDate": "2024-06-28",
+    "importQuantity": 851,
+    
+    
+    "dutiesPaid": 17938.1,
+    "drawbackClaimed": 14857.46
+  },
+  {
+    "claimID": 1685,
+    "importerName": "Importer_21",
+    "HTSCode": "6082.43.95.38",
+    "importDate": "2024-05-28",
+    "importQuantity": 2293,
+    
+    
+    "dutiesPaid": 15577.29,
+    "drawbackClaimed": 10216.74
+  },
+  {
+    "claimID": 2556,
+    "importerName": "Importer_38",
+    "HTSCode": "1785.47.73.47",
+    "importDate": "2024-10-24",
+    "importQuantity": 8758,
+    
+    
+    "dutiesPaid": 5699.55,
+    "drawbackClaimed": 7397.12
+  },
+  {
+    "claimID": 4176,
+    "importerName": "Importer_18",
+    "HTSCode": "6993.76.11.84",
+    "importDate": "2024-09-18",
+    "importQuantity": 384,
+    
+    
+    "dutiesPaid": 15293.02,
+    "drawbackClaimed": 9834.64
+  },
+  {
+    "claimID": 4764,
+    "importerName": "Importer_39",
+    "HTSCode": "5200.28.32.97",
+    "importDate": "2024-08-10",
+    "importQuantity": 1241,
+    
+    
+    "dutiesPaid": 17850.85,
+    "drawbackClaimed": 1577.95
+  },
+  {
+    "claimID": 1915,
+    "importerName": "Importer_15",
+    "HTSCode": "1615.12.35.26",
+    "importDate": "2024-02-22",
+    "importQuantity": 6337,
+    
+    
+    "dutiesPaid": 13923.05,
+    "drawbackClaimed": 8845.79
+  },
+  {
+    "claimID": 9619,
+    "importerName": "Importer_37",
+    "HTSCode": "5370.34.50.48",
+    "importDate": "2024-05-08",
+    "importQuantity": 307,
+    
+    
+    "dutiesPaid": 9100.71,
+    "drawbackClaimed": 697.72
+  },
+  {
+    "claimID": 8601,
+    "importerName": "Importer_44",
+    "HTSCode": "8785.84.65.68",
+    "importDate": "2024-04-21",
+    "importQuantity": 2695,
+    
+    
+    "dutiesPaid": 18866.06,
+    "drawbackClaimed": 11069.73
+  },
+  {
+    "claimID": 8137,
+    "importerName": "Importer_12",
+    "HTSCode": "2195.73.39.98",
+    "importDate": "2024-12-11",
+    "importQuantity": 7142,
+    
+    
+    "dutiesPaid": 10241.74,
+    "drawbackClaimed": 14733.51
+  },
+  {
+    "claimID": 4436,
+    "importerName": "Importer_15",
+    "HTSCode": "4153.55.80.83",
+    "importDate": "2024-04-13",
+    "importQuantity": 9415,
+    
+    
+    "dutiesPaid": 5329.41,
+    "drawbackClaimed": 2475.59
+  },
+  {
+    "claimID": 7293,
+    "importerName": "Importer_12",
+    "HTSCode": "8417.73.68.77",
+    "importDate": "2024-07-12",
+    "importQuantity": 4006,
+    
+    
+    "dutiesPaid": 19374.81,
+    "drawbackClaimed": 12417.5
+  },
+  {
+    "claimID": 5588,
+    "importerName": "Importer_42",
+    "HTSCode": "4409.24.45.52",
+    "importDate": "2024-02-08",
+    "importQuantity": 9955,
+    
+    
+    "dutiesPaid": 2423.48,
+    "drawbackClaimed": 7993.09
+  },
+  {
+    "claimID": 9860,
+    "importerName": "Importer_40",
+    "HTSCode": "9293.34.50.54",
+    "importDate": "2024-12-08",
+    "importQuantity": 9835,
+    
+    
+    "dutiesPaid": 5833.71,
+    "drawbackClaimed": 2302.41
+  },
+  {
+    "claimID": 5105,
+    "importerName": "Importer_24",
+    "HTSCode": "7083.41.26.51",
+    "importDate": "2024-01-11",
+    "importQuantity": 823,
+    
+    
+    "dutiesPaid": 7115.06,
+    "drawbackClaimed": 5053.71
+  },
+  {
+    "claimID": 7828,
+    "importerName": "Importer_1",
+    "HTSCode": "7338.30.77.79",
+    "importDate": "2024-07-03",
+    "importQuantity": 3876,
+    
+    
+    "dutiesPaid": 12896.38,
+    "drawbackClaimed": 6934.85
+  },
+  {
+    "claimID": 2839,
+    "importerName": "Importer_6",
+    "HTSCode": "7386.18.69.68",
+    "importDate": "2024-09-04",
+    "importQuantity": 582,
+    
+    
+    "dutiesPaid": 4931.81,
+    "drawbackClaimed": 14680.11
+  },
+  {
+    "claimID": 4912,
+    "importerName": "Importer_40",
+    "HTSCode": "4942.71.98.11",
+    "importDate": "2024-06-30",
+    "importQuantity": 2256,
+    
+    
+    "dutiesPaid": 8274.36,
+    "drawbackClaimed": 9432.99
+  },
+  {
+    "claimID": 1236,
+    "importerName": "Importer_42",
+    "HTSCode": "5979.30.96.20",
+    "importDate": "2024-09-04",
+    "importQuantity": 7160,
+    
+    
+    "dutiesPaid": 2076.84,
+    "drawbackClaimed": 10965.13
+  },
+  {
+    "claimID": 9207,
+    "importerName": "Importer_47",
+    "HTSCode": "9032.78.24.89",
+    "importDate": "2024-01-22",
+    "importQuantity": 1681,
+    
+    
+    "dutiesPaid": 14706.14,
+    "drawbackClaimed": 7159.04
+  },
+  {
+    "claimID": 5498,
+    "importerName": "Importer_2",
+    "HTSCode": "2339.66.32.69",
+    "importDate": "2024-08-20",
+    "importQuantity": 5330,
+    
+    
+    "dutiesPaid": 11871.39,
+    "drawbackClaimed": 2484.24
+  },
+  {
+    "claimID": 6305,
+    "importerName": "Importer_36",
+    "HTSCode": "1383.76.75.66",
+    "importDate": "2024-03-09",
+    "importQuantity": 6234,
+    
+    
+    "dutiesPaid": 7795.85,
+    "drawbackClaimed": 14520.58
+  },
+  {
+    "claimID": 6059,
+    "importerName": "Importer_23",
+    "HTSCode": "1666.85.43.97",
+    "importDate": "2024-12-03",
+    "importQuantity": 5520,
+    
+    
+    "dutiesPaid": 3259.15,
+    "drawbackClaimed": 11411.32
+  },
+  {
+    "claimID": 2172,
+    "importerName": "Importer_31",
+    "HTSCode": "4965.73.25.50",
+    "importDate": "2024-12-28",
+    "importQuantity": 1839,
+    
+    
+    "dutiesPaid": 11234.9,
+    "drawbackClaimed": 8769.78
+  },
+  {
+    "claimID": 8878,
+    "importerName": "Importer_10",
+    "HTSCode": "2632.25.69.27",
+    "importDate": "2024-08-05",
+    "importQuantity": 6622,
+    
+    
+    "dutiesPaid": 18059.93,
+    "drawbackClaimed": 2876.09
+  },
+  {
+    "claimID": 4871,
+    "importerName": "Importer_20",
+    "HTSCode": "2185.48.72.59",
+    "importDate": "2024-09-03",
+    "importQuantity": 542,
+    
+    
+    "dutiesPaid": 3820.29,
+    "drawbackClaimed": 10603.09
+  },
+  {
+    "claimID": 1321,
+    "importerName": "Importer_44",
+    "HTSCode": "2432.53.58.72",
+    "importDate": "2024-12-03",
+    "importQuantity": 1470,
+    
+    
+    "dutiesPaid": 3660.02,
+    "drawbackClaimed": 1161.76
+  },
+  {
+    "claimID": 2517,
+    "importerName": "Importer_40",
+    "HTSCode": "1380.75.32.26",
+    "importDate": "2024-08-07",
+    "importQuantity": 3302,
+    
+    
+    "dutiesPaid": 4024.59,
+    "drawbackClaimed": 7027.46
+  },
+  {
+    "claimID": 8654,
+    "importerName": "Importer_35",
+    "HTSCode": "1653.12.20.69",
+    "importDate": "2024-08-30",
+    "importQuantity": 188,
+    
+    
+    "dutiesPaid": 13677.4,
+    "drawbackClaimed": 1405.18
+  },
+  {
+    "claimID": 4261,
+    "importerName": "Importer_46",
+    "HTSCode": "2478.75.84.69",
+    "importDate": "2024-02-09",
+    "importQuantity": 5961,
+    
+    
+    "dutiesPaid": 13094.33,
+    "drawbackClaimed": 12581.29
+  },
+  {
+    "claimID": 6076,
+    "importerName": "Importer_22",
+    "HTSCode": "2830.86.72.85",
+    "importDate": "2024-05-06",
+    "importQuantity": 9328,
+    
+    
+    "dutiesPaid": 8287.39,
+    "drawbackClaimed": 918.03
+  },
+  {
+    "claimID": 1305,
+    "importerName": "Importer_5",
+    "HTSCode": "3702.71.30.12",
+    "importDate": "2024-11-12",
+    "importQuantity": 1875,
+    
+    
+    "dutiesPaid": 9309.73,
+    "drawbackClaimed": 8874.63
+  },
+  {
+    "claimID": 7403,
+    "importerName": "Importer_39",
+    "HTSCode": "7016.61.49.77",
+    "importDate": "2024-05-14",
+    "importQuantity": 5265,
+    
+    
+    "dutiesPaid": 4727.21,
+    "drawbackClaimed": 5202.8
+  },
+  {
+    "claimID": 3737,
+    "importerName": "Importer_26",
+    "HTSCode": "3036.59.63.78",
+    "importDate": "2024-11-29",
+    "importQuantity": 8126,
+    
+    
+    "dutiesPaid": 15034.22,
+    "drawbackClaimed": 4849.74
+  },
+  {
+    "claimID": 2524,
+    "importerName": "Importer_15",
+    "HTSCode": "6253.57.33.67",
+    "importDate": "2024-06-05",
+    "importQuantity": 3622,
+    
+    
+    "dutiesPaid": 16107.35,
+    "drawbackClaimed": 2879.0
+  },
+  {
+    "claimID": 6506,
+    "importerName": "Importer_15",
+    "HTSCode": "1790.40.98.65",
+    "importDate": "2024-01-12",
+    "importQuantity": 9871,
+    
+    
+    "dutiesPaid": 18352.29,
+    "drawbackClaimed": 10436.28
+  },
+  {
+    "claimID": 9245,
+    "importerName": "Importer_30",
+    "HTSCode": "3408.75.15.21",
+    "importDate": "2024-11-17",
+    "importQuantity": 4928,
+    
+    
+    "dutiesPaid": 15423.63,
+    "drawbackClaimed": 2191.47
+  },
+  {
+    "claimID": 2822,
+    "importerName": "Importer_22",
+    "HTSCode": "6361.36.13.41",
+    "importDate": "2024-11-07",
+    "importQuantity": 6923,
+    
+    
+    "dutiesPaid": 2317.88,
+    "drawbackClaimed": 3648.78
+  },
+  {
+    "claimID": 7933,
+    "importerName": "Importer_47",
+    "HTSCode": "7565.27.91.93",
+    "importDate": "2024-10-11",
+    "importQuantity": 1045,
+    
+    
+    "dutiesPaid": 19270.66,
+    "drawbackClaimed": 9006.93
+  },
+  {
+    "claimID": 3767,
+    "importerName": "Importer_48",
+    "HTSCode": "5512.65.74.14",
+    "importDate": "2024-07-07",
+    "importQuantity": 6360,
+    
+    
+    "dutiesPaid": 8457.4,
+    "drawbackClaimed": 13967.83
+  },
+  {
+    "claimID": 5569,
+    "importerName": "Importer_12",
+    "HTSCode": "7364.12.15.30",
+    "importDate": "2024-01-03",
+    "importQuantity": 6541,
+    
+    
+    "dutiesPaid": 9715.27,
+    "drawbackClaimed": 14574.83
+  },
+  {
+    "claimID": 3118,
+    "importerName": "Importer_49",
+    "HTSCode": "3617.50.17.69",
+    "importDate": "2024-12-24",
+    "importQuantity": 4128,
+    
+    
+    "dutiesPaid": 14741.14,
+    "drawbackClaimed": 11495.94
+  },
+  {
+    "claimID": 3758,
+    "importerName": "Importer_17",
+    "HTSCode": "3391.58.18.36",
+    "importDate": "2024-08-09",
+    "importQuantity": 6103,
+    
+    
+    "dutiesPaid": 15240.27,
+    "drawbackClaimed": 9917.39
+  },
+  {
+    "claimID": 4246,
+    "importerName": "Importer_5",
+    "HTSCode": "1490.87.97.33",
+    "importDate": "2024-07-25",
+    "importQuantity": 781,
+    
+    
+    "dutiesPaid": 1877.15,
+    "drawbackClaimed": 3955.84
+  },
+  {
+    "claimID": 5908,
+    "importerName": "Importer_43",
+    "HTSCode": "8904.56.14.29",
+    "importDate": "2024-04-25",
+    "importQuantity": 7158,
+    
+    
+    "dutiesPaid": 4561.1,
+    "drawbackClaimed": 10656.36
+  },
+  {
+    "claimID": 9944,
+    "importerName": "Importer_36",
+    "HTSCode": "9711.24.62.87",
+    "importDate": "2024-02-04",
+    "importQuantity": 5181,
+    
+    
+    "dutiesPaid": 3297.08,
+    "drawbackClaimed": 2772.51
+  },
+  {
+    "claimID": 5629,
+    "importerName": "Importer_27",
+    "HTSCode": "3251.95.59.31",
+    "importDate": "2024-05-19",
+    "importQuantity": 4387,
+    
+    
+    "dutiesPaid": 19626.96,
+    "drawbackClaimed": 11113.07
+  },
+  {
+    "claimID": 2240,
+    "importerName": "Importer_7",
+    "HTSCode": "3400.12.50.17",
+    "importDate": "2024-11-30",
+    "importQuantity": 1433,
+    
+    
+    "dutiesPaid": 8567.23,
+    "drawbackClaimed": 12922.81
+  },
+  {
+    "claimID": 7704,
+    "importerName": "Importer_13",
+    "HTSCode": "3976.27.88.16",
+    "importDate": "2024-03-18",
+    "importQuantity": 7845,
+    
+    
+    "dutiesPaid": 7615.74,
+    "drawbackClaimed": 7995.06
+  },
+  {
+    "claimID": 3565,
+    "importerName": "Importer_1",
+    "HTSCode": "9929.84.48.31",
+    "importDate": "2024-06-09",
+    "importQuantity": 6247,
+    
+    
+    "dutiesPaid": 12037.29,
+    "drawbackClaimed": 1433.87
+  },
+  {
+    "claimID": 2412,
+    "importerName": "Importer_17",
+    "HTSCode": "6249.19.21.84",
+    "importDate": "2024-09-14",
+    "importQuantity": 5352,
+    
+    
+    "dutiesPaid": 5209.65,
+    "drawbackClaimed": 14541.97
+  },
+  {
+    "claimID": 1617,
+    "importerName": "Importer_2",
+    "HTSCode": "9902.55.92.79",
+    "importDate": "2024-04-17",
+    "importQuantity": 195,
+    
+    
+    "dutiesPaid": 14294.68,
+    "drawbackClaimed": 8432.45
+  },
+  {
+    "claimID": 9332,
+    "importerName": "Importer_36",
+    "HTSCode": "9754.29.22.10",
+    "importDate": "2024-03-28",
+    "importQuantity": 9901,
+    
+    
+    "dutiesPaid": 2820.72,
+    "drawbackClaimed": 10539.17
+  },
+  {
+    "claimID": 6415,
+    "importerName": "Importer_46",
+    "HTSCode": "9302.99.50.25",
+    "importDate": "2024-11-16",
+    "importQuantity": 7036,
+    
+    
+    "dutiesPaid": 17714.63,
+    "drawbackClaimed": 12115.73
+  },
+  {
+    "claimID": 2073,
+    "importerName": "Importer_33",
+    "HTSCode": "8602.87.97.60",
+    "importDate": "2024-06-17",
+    "importQuantity": 7146,
+    
+    
+    "dutiesPaid": 4305.96,
+    "drawbackClaimed": 4358.73
+  },
+  {
+    "claimID": 6605,
+    "importerName": "Importer_49",
+    "HTSCode": "9541.37.10.56",
+    "importDate": "2024-12-06",
+    "importQuantity": 5832,
+    
+    
+    "dutiesPaid": 7801.16,
+    "drawbackClaimed": 8809.17
+  },
+  {
+    "claimID": 2332,
+    "importerName": "Importer_1",
+    "HTSCode": "3319.30.64.40",
+    "importDate": "2024-05-19",
+    "importQuantity": 8209,
+    
+    
+    "dutiesPaid": 12271.83,
+    "drawbackClaimed": 7331.0
+  },
+  {
+    "claimID": 7678,
+    "importerName": "Importer_48",
+    "HTSCode": "9004.18.29.68",
+    "importDate": "2024-09-25",
+    "importQuantity": 4805,
+    
+    
+    "dutiesPaid": 1262.38,
+    "drawbackClaimed": 2557.81
+  },
+  {
+    "claimID": 2394,
+    "importerName": "Importer_19",
+    "HTSCode": "3178.59.62.14",
+    "importDate": "2024-10-27",
+    "importQuantity": 6235,
+    
+    
+    "dutiesPaid": 16295.86,
+    "drawbackClaimed": 8334.32
+  },
+  {
+    "claimID": 4487,
+    "importerName": "Importer_25",
+    "HTSCode": "6802.32.84.55",
+    "importDate": "2024-11-13",
+    "importQuantity": 806,
+    
+    
+    "dutiesPaid": 17502.6,
+    "drawbackClaimed": 7910.83
+  },
+  {
+    "claimID": 6449,
+    "importerName": "Importer_5",
+    "HTSCode": "6864.30.42.56",
+    "importDate": "2024-08-22",
+    "importQuantity": 9248,
+    
+    
+    "dutiesPaid": 18456.56,
+    "drawbackClaimed": 1649.36
+  },
+  {
+    "claimID": 5963,
+    "importerName": "Importer_29",
+    "HTSCode": "2066.20.56.25",
+    "importDate": "2024-12-18",
+    "importQuantity": 9467,
+    
+    
+    "dutiesPaid": 18012.66,
+    "drawbackClaimed": 4265.23
+  },
+  {
+    "claimID": 9349,
+    "importerName": "Importer_28",
+    "HTSCode": "8783.91.68.40",
+    "importDate": "2024-12-29",
+    "importQuantity": 3459,
+    
+    
+    "dutiesPaid": 5191.07,
+    "drawbackClaimed": 7354.37
+  },
+  {
+    "claimID": 8573,
+    "importerName": "Importer_40",
+    "HTSCode": "4922.49.54.84",
+    "importDate": "2024-06-13",
+    "importQuantity": 3122,
+    
+    
+    "dutiesPaid": 5969.39,
+    "drawbackClaimed": 5897.64
+  },
+  {
+    "claimID": 5822,
+    "importerName": "Importer_29",
+    "HTSCode": "3577.66.77.29",
+    "importDate": "2024-05-25",
+    "importQuantity": 1304,
+    
+    
+    "dutiesPaid": 19613.44,
+    "drawbackClaimed": 1229.79
+  },
+  {
+    "claimID": 5289,
+    "importerName": "Importer_14",
+    "HTSCode": "5438.55.28.80",
+    "importDate": "2024-02-17",
+    "importQuantity": 7130,
+    
+    
+    "dutiesPaid": 2348.52,
+    "drawbackClaimed": 803.3
+  },
+  {
+    "claimID": 4961,
+    "importerName": "Importer_8",
+    "HTSCode": "6460.89.43.56",
+    "importDate": "2024-02-11",
+    "importQuantity": 2683,
+    
+    
+    "dutiesPaid": 9414.16,
+    "drawbackClaimed": 3641.87
+  },
+  {
+    "claimID": 1991,
+    "importerName": "Importer_16",
+    "HTSCode": "7919.67.79.38",
+    "importDate": "2024-09-20",
+    "importQuantity": 2935,
+    
+    
+    "dutiesPaid": 6271.57,
+    "drawbackClaimed": 12093.42
+  },
+  {
+    "claimID": 2349,
+    "importerName": "Importer_37",
+    "HTSCode": "3007.99.73.91",
+    "importDate": "2024-05-23",
+    "importQuantity": 2164,
+    
+    
+    "dutiesPaid": 6952.01,
+    "drawbackClaimed": 1174.64
+  },
+  {
+    "claimID": 6748,
+    "importerName": "Importer_11",
+    "HTSCode": "7383.85.87.83",
+    "importDate": "2024-09-28",
+    "importQuantity": 3765,
+    
+    
+    "dutiesPaid": 11098.18,
+    "drawbackClaimed": 12546.48
+  },
+  {
+    "claimID": 2353,
+    "importerName": "Importer_33",
+    "HTSCode": "7141.61.45.51",
+    "importDate": "2024-06-07",
+    "importQuantity": 587,
+    
+    
+    "dutiesPaid": 10949.77,
+    "drawbackClaimed": 7314.86
+  },
+  {
+    "claimID": 3583,
+    "importerName": "Importer_12",
+    "HTSCode": "5272.12.93.68",
+    "importDate": "2024-12-02",
+    "importQuantity": 1805,
+    
+    
+    "dutiesPaid": 13665.22,
+    "drawbackClaimed": 8732.2
+  },
+  {
+    "claimID": 6977,
+    "importerName": "Importer_22",
+    "HTSCode": "5035.15.40.59",
+    "importDate": "2024-03-01",
+    "importQuantity": 1848,
+    
+    
+    "dutiesPaid": 16850.29,
+    "drawbackClaimed": 13242.79
+  },
+  {
+    "claimID": 6762,
+    "importerName": "Importer_36",
+    "HTSCode": "1815.88.58.46",
+    "importDate": "2024-11-09",
+    "importQuantity": 7002,
+    
+    
+    "dutiesPaid": 17595.11,
+    "drawbackClaimed": 3795.44
+  },
+  {
+    "claimID": 7537,
+    "importerName": "Importer_13",
+    "HTSCode": "4523.38.73.90",
+    "importDate": "2024-02-19",
+    "importQuantity": 3575,
+    
+    
+    "dutiesPaid": 12389.14,
+    "drawbackClaimed": 1848.08
+  },
+  {
+    "claimID": 8343,
+    "importerName": "Importer_31",
+    "HTSCode": "2603.58.80.72",
+    "importDate": "2024-12-13",
+    "importQuantity": 3186,
+    
+    
+    "dutiesPaid": 16580.83,
+    "drawbackClaimed": 8035.33
+  },
+  {
+    "claimID": 7617,
+    "importerName": "Importer_10",
+    "HTSCode": "6106.15.33.29",
+    "importDate": "2024-07-01",
+    "importQuantity": 519,
+    
+    
+    "dutiesPaid": 19057.21,
+    "drawbackClaimed": 1640.69
+  },
+  {
+    "claimID": 3028,
+    "importerName": "Importer_29",
+    "HTSCode": "2200.65.78.86",
+    "importDate": "2024-05-17",
+    "importQuantity": 5311,
+    
+    
+    "dutiesPaid": 6483.94,
+    "drawbackClaimed": 10819.57
+  },
+  {
+    "claimID": 9589,
+    "importerName": "Importer_33",
+    "HTSCode": "4767.32.48.61",
+    "importDate": "2024-12-16",
+    "importQuantity": 200,
+    
+    
+    "dutiesPaid": 1435.94,
+    "drawbackClaimed": 8974.39
+  },
+  {
+    "claimID": 1937,
+    "importerName": "Importer_22",
+    "HTSCode": "1251.69.61.26",
+    "importDate": "2024-04-08",
+    "importQuantity": 2674,
+    
+    
+    "dutiesPaid": 3036.34,
+    "drawbackClaimed": 2613.86
+  },
+  {
+    "claimID": 1520,
+    "importerName": "Importer_47",
+    "HTSCode": "4141.77.94.68",
+    "importDate": "2024-11-13",
+    "importQuantity": 4654,
+    
+    
+    "dutiesPaid": 13745.7,
+    "drawbackClaimed": 1503.44
+  },
+  {
+    "claimID": 7742,
+    "importerName": "Importer_35",
+    "HTSCode": "7385.39.59.61",
+    "importDate": "2024-10-08",
+    "importQuantity": 5698,
+    
+    
+    "dutiesPaid": 7574.52,
+    "drawbackClaimed": 10913.13
+  },
+  {
+    "claimID": 8573,
+    "importerName": "Importer_23",
+    "HTSCode": "8264.75.56.81",
+    "importDate": "2024-02-06",
+    "importQuantity": 2749,
+    
+    
+    "dutiesPaid": 12350.12,
+    "drawbackClaimed": 6912.01
+  },
+  {
+    "claimID": 8063,
+    "importerName": "Importer_30",
+    "HTSCode": "4492.31.62.56",
+    "importDate": "2024-02-20",
+    "importQuantity": 9898,
+    
+    
+    "dutiesPaid": 17638.33,
+    "drawbackClaimed": 7199.49
+  },
+  {
+    "claimID": 5283,
+    "importerName": "Importer_2",
+    "HTSCode": "6073.26.39.30",
+    "importDate": "2024-05-28",
+    "importQuantity": 8756,
+    
+    
+    "dutiesPaid": 7934.48,
+    "drawbackClaimed": 12071.06
+  },
+  {
+    "claimID": 8511,
+    "importerName": "Importer_23",
+    "HTSCode": "2376.79.65.32",
+    "importDate": "2024-04-07",
+    "importQuantity": 4958,
+    
+    
+    "dutiesPaid": 2661.39,
+    "drawbackClaimed": 13705.17
+  },
+  {
+    "claimID": 3895,
+    "importerName": "Importer_5",
+    "HTSCode": "7914.56.18.80",
+    "importDate": "2024-01-07",
+    "importQuantity": 4488,
+    
+    
+    "dutiesPaid": 10607.21,
+    "drawbackClaimed": 8615.13
+  },
+  {
+    "claimID": 5260,
+    "importerName": "Importer_2",
+    "HTSCode": "2821.14.60.63",
+    "importDate": "2024-03-17",
+    "importQuantity": 5828,
+    
+    
+    "dutiesPaid": 4531.08,
+    "drawbackClaimed": 14638.06
+  },
+  {
+    "claimID": 2864,
+    "importerName": "Importer_3",
+    "HTSCode": "9625.27.31.14",
+    "importDate": "2024-03-01",
+    "importQuantity": 8311,
+    
+    
+    "dutiesPaid": 14856.81,
+    "drawbackClaimed": 13409.28
+  },
+  {
+    "claimID": 4975,
+    "importerName": "Importer_7",
+    "HTSCode": "5627.27.97.64",
+    "importDate": "2024-09-01",
+    "importQuantity": 8761,
+    
+    
+    "dutiesPaid": 2228.29,
+    "drawbackClaimed": 10161.7
+  },
+  {
+    "claimID": 2026,
+    "importerName": "Importer_29",
+    "HTSCode": "5988.12.34.32",
+    "importDate": "2024-05-04",
+    "importQuantity": 4115,
+    
+    
+    "dutiesPaid": 17605.29,
+    "drawbackClaimed": 2081.99
+  },
+  {
+    "claimID": 8848,
+    "importerName": "Importer_9",
+    "HTSCode": "2845.15.43.39",
+    "importDate": "2024-05-21",
+    "importQuantity": 7435,
+    
+    
+    "dutiesPaid": 4827.33,
+    "drawbackClaimed": 4557.8
+  },
+  {
+    "claimID": 8957,
+    "importerName": "Importer_2",
+    "HTSCode": "9345.24.74.54",
+    "importDate": "2024-05-02",
+    "importQuantity": 3392,
+    
+    
+    "dutiesPaid": 11208.41,
+    "drawbackClaimed": 5876.4
+  },
+  {
+    "claimID": 8616,
+    "importerName": "Importer_13",
+    "HTSCode": "1790.66.86.84",
+    "importDate": "2024-06-04",
+    "importQuantity": 3076,
+    
+    
+    "dutiesPaid": 7420.53,
+    "drawbackClaimed": 6675.41
+  },
+  {
+    "claimID": 9057,
+    "importerName": "Importer_16",
+    "HTSCode": "9737.71.54.13",
+    "importDate": "2024-04-07",
+    "importQuantity": 9532,
+    
+    
+    "dutiesPaid": 13013.42,
+    "drawbackClaimed": 7711.78
+  },
+  {
+    "claimID": 3731,
+    "importerName": "Importer_20",
+    "HTSCode": "3947.88.59.35",
+    "importDate": "2024-07-07",
+    "importQuantity": 2959,
+    
+    
+    "dutiesPaid": 9648.99,
+    "drawbackClaimed": 6198.98
+  },
+  {
+    "claimID": 9727,
+    "importerName": "Importer_18",
+    "HTSCode": "1140.84.82.87",
+    "importDate": "2024-06-09",
+    "importQuantity": 7280,
+    
+    
+    "dutiesPaid": 3532.38,
+    "drawbackClaimed": 2453.54
+  },
+  {
+    "claimID": 2921,
+    "importerName": "Importer_36",
+    "HTSCode": "3252.15.55.59",
+    "importDate": "2024-06-07",
+    "importQuantity": 4716,
+    
+    
+    "dutiesPaid": 12341.52,
+    "drawbackClaimed": 1662.48
+  },
+  {
+    "claimID": 3852,
+    "importerName": "Importer_35",
+    "HTSCode": "4838.42.26.63",
+    "importDate": "2024-12-06",
+    "importQuantity": 8646,
+    
+    
+    "dutiesPaid": 16683.86,
+    "drawbackClaimed": 2020.16
+  },
+  {
+    "claimID": 2566,
+    "importerName": "Importer_50",
+    "HTSCode": "2531.51.17.12",
+    "importDate": "2024-02-18",
+    "importQuantity": 3006,
+    
+    
+    "dutiesPaid": 19068.84,
+    "drawbackClaimed": 14579.94
+  },
+  {
+    "claimID": 4650,
+    "importerName": "Importer_27",
+    "HTSCode": "7528.10.33.95",
+    "importDate": "2024-08-11",
+    "importQuantity": 3779,
+    
+    
+    "dutiesPaid": 6531.01,
+    "drawbackClaimed": 11608.28
+  },
+  {
+    "claimID": 4643,
+    "importerName": "Importer_32",
+    "HTSCode": "1769.18.57.85",
+    "importDate": "2024-07-01",
+    "importQuantity": 6911,
+    
+    
+    "dutiesPaid": 16931.51,
+    "drawbackClaimed": 4188.95
+  },
+  {
+    "claimID": 2259,
+    "importerName": "Importer_25",
+    "HTSCode": "7224.71.75.98",
+    "importDate": "2024-02-16",
+    "importQuantity": 8209,
+    
+    
+    "dutiesPaid": 6796.8,
+    "drawbackClaimed": 7474.36
+  },
+  {
+    "claimID": 9059,
+    "importerName": "Importer_23",
+    "HTSCode": "4815.85.83.31",
+    "importDate": "2024-07-03",
+    "importQuantity": 3032,
+    
+    
+    "dutiesPaid": 15668.35,
+    "drawbackClaimed": 10856.19
+  },
+  {
+    "claimID": 9880,
+    "importerName": "Importer_42",
+    "HTSCode": "4182.57.41.85",
+    "importDate": "2024-01-25",
+    "importQuantity": 2601,
+    
+    
+    "dutiesPaid": 9811.59,
+    "drawbackClaimed": 5104.14
+  },
+  {
+    "claimID": 3842,
+    "importerName": "Importer_38",
+    "HTSCode": "6109.30.17.26",
+    "importDate": "2024-01-04",
+    "importQuantity": 7941,
+    
+    
+    "dutiesPaid": 3699.93,
+    "drawbackClaimed": 6867.69
+  },
+  {
+    "claimID": 1685,
+    "importerName": "Importer_40",
+    "HTSCode": "4350.35.33.42",
+    "importDate": "2024-09-24",
+    "importQuantity": 8424,
+    
+    
+    "dutiesPaid": 14311.23,
+    "drawbackClaimed": 13361.7
+  },
+  {
+    "claimID": 6779,
+    "importerName": "Importer_14",
+    "HTSCode": "8280.84.46.66",
+    "importDate": "2024-12-09",
+    "importQuantity": 6027,
+    
+    
+    "dutiesPaid": 1893.91,
+    "drawbackClaimed": 5421.25
+  },
+  {
+    "claimID": 6898,
+    "importerName": "Importer_16",
+    "HTSCode": "8752.29.99.58",
+    "importDate": "2024-12-23",
+    "importQuantity": 3769,
+    
+    
+    "dutiesPaid": 10830.52,
+    "drawbackClaimed": 8599.13
+  },
+  {
+    "claimID": 5996,
+    "importerName": "Importer_44",
+    "HTSCode": "5732.85.86.36",
+    "importDate": "2024-02-10",
+    "importQuantity": 3923,
+    
+    
+    "dutiesPaid": 15859.15,
+    "drawbackClaimed": 5214.37
+  },
+  {
+    "claimID": 4346,
+    "importerName": "Importer_14",
+    "HTSCode": "2137.66.42.51",
+    "importDate": "2024-04-11",
+    "importQuantity": 1344,
+    
+    
+    "dutiesPaid": 16601.14,
+    "drawbackClaimed": 11281.01
+  },
+  {
+    "claimID": 2407,
+    "importerName": "Importer_49",
+    "HTSCode": "8900.83.27.59",
+    "importDate": "2024-01-25",
+    "importQuantity": 9620,
+    
+    
+    "dutiesPaid": 17335.08,
+    "drawbackClaimed": 2050.31
+  },
+  {
+    "claimID": 8716,
+    "importerName": "Importer_3",
+    "HTSCode": "5020.95.29.87",
+    "importDate": "2024-08-17",
+    "importQuantity": 5894,
+    
+    
+    "dutiesPaid": 3200.37,
+    "drawbackClaimed": 1455.38
+  },
+  {
+    "claimID": 8897,
+    "importerName": "Importer_38",
+    "HTSCode": "6874.38.52.43",
+    "importDate": "2024-03-23",
+    "importQuantity": 1309,
+    
+    
+    "dutiesPaid": 4618.66,
+    "drawbackClaimed": 9304.2
+  },
+  {
+    "claimID": 6365,
+    "importerName": "Importer_3",
+    "HTSCode": "3437.67.88.35",
+    "importDate": "2024-01-13",
+    "importQuantity": 2550,
+    
+    
+    "dutiesPaid": 18463.93,
+    "drawbackClaimed": 3547.85
+  },
+  {
+    "claimID": 1129,
+    "importerName": "Importer_11",
+    "HTSCode": "9835.72.87.70",
+    "importDate": "2024-12-06",
+    "importQuantity": 1771,
+    
+    
+    "dutiesPaid": 12380.15,
+    "drawbackClaimed": 2501.22
+  },
+  {
+    "claimID": 2664,
+    "importerName": "Importer_20",
+    "HTSCode": "5802.61.23.49",
+    "importDate": "2024-07-21",
+    "importQuantity": 8936,
+    
+    
+    "dutiesPaid": 1080.03,
+    "drawbackClaimed": 6723.96
+  },
+  {
+    "claimID": 7753,
+    "importerName": "Importer_4",
+    "HTSCode": "7097.18.13.97",
+    "importDate": "2024-03-16",
+    "importQuantity": 2157,
+    
+    
+    "dutiesPaid": 4261.01,
+    "drawbackClaimed": 2426.02
+  },
+  {
+    "claimID": 4424,
+    "importerName": "Importer_39",
+    "HTSCode": "9455.80.76.58",
+    "importDate": "2024-06-11",
+    "importQuantity": 6039,
+    
+    
+    "dutiesPaid": 8814.83,
+    "drawbackClaimed": 9929.11
+  },
+  {
+    "claimID": 4313,
+    "importerName": "Importer_3",
+    "HTSCode": "7613.34.86.44",
+    "importDate": "2024-01-21",
+    "importQuantity": 1248,
+    
+    
+    "dutiesPaid": 12220.82,
+    "drawbackClaimed": 3635.01
+  },
+  {
+    "claimID": 9241,
+    "importerName": "Importer_13",
+    "HTSCode": "8686.59.72.45",
+    "importDate": "2024-04-06",
+    "importQuantity": 1442,
+    
+    
+    "dutiesPaid": 6090.56,
+    "drawbackClaimed": 4850.15
+  },
+  {
+    "claimID": 8128,
+    "importerName": "Importer_17",
+    "HTSCode": "6530.46.26.98",
+    "importDate": "2024-10-29",
+    "importQuantity": 618,
+    
+    
+    "dutiesPaid": 1552.51,
+    "drawbackClaimed": 3590.56
+  },
+  {
+    "claimID": 5208,
+    "importerName": "Importer_12",
+    "HTSCode": "3704.76.31.82",
+    "importDate": "2024-09-24",
+    "importQuantity": 282,
+    
+    
+    "dutiesPaid": 7005.47,
+    "drawbackClaimed": 6836.7
+  },
+  {
+    "claimID": 7666,
+    "importerName": "Importer_18",
+    "HTSCode": "4846.17.79.34",
+    "importDate": "2024-05-02",
+    "importQuantity": 2273,
+    
+    
+    "dutiesPaid": 6962.3,
+    "drawbackClaimed": 1608.53
+  },
+  {
+    "claimID": 7441,
+    "importerName": "Importer_43",
+    "HTSCode": "2454.13.30.90",
+    "importDate": "2024-03-23",
+    "importQuantity": 9722,
+    
+    
+    "dutiesPaid": 3397.99,
+    "drawbackClaimed": 12727.42
+  },
+  {
+    "claimID": 7752,
+    "importerName": "Importer_11",
+    "HTSCode": "4498.12.83.17",
+    "importDate": "2024-05-19",
+    "importQuantity": 3163,
+    
+    
+    "dutiesPaid": 3894.97,
+    "drawbackClaimed": 8831.24
+  },
+  {
+    "claimID": 6577,
+    "importerName": "Importer_4",
+    "HTSCode": "2941.20.61.43",
+    "importDate": "2024-11-11",
+    "importQuantity": 312,
+    
+    
+    "dutiesPaid": 8242.4,
+    "drawbackClaimed": 6108.04
+  },
+  {
+    "claimID": 6319,
+    "importerName": "Importer_2",
+    "HTSCode": "4975.80.17.42",
+    "importDate": "2024-10-24",
+    "importQuantity": 2752,
+    
+    
+    "dutiesPaid": 12491.21,
+    "drawbackClaimed": 14581.63
+  },
+  {
+    "claimID": 7285,
+    "importerName": "Importer_41",
+    "HTSCode": "4356.42.20.90",
+    "importDate": "2024-08-13",
+    "importQuantity": 6584,
+    
+    
+    "dutiesPaid": 1311.02,
+    "drawbackClaimed": 12758.86
+  },
+  {
+    "claimID": 4827,
+    "importerName": "Importer_37",
+    "HTSCode": "6777.18.63.51",
+    "importDate": "2024-11-21",
+    "importQuantity": 739,
+    
+    
+    "dutiesPaid": 10384.13,
+    "drawbackClaimed": 13930.97
+  },
+  {
+    "claimID": 3912,
+    "importerName": "Importer_16",
+    "HTSCode": "1924.52.84.80",
+    "importDate": "2024-04-14",
+    "importQuantity": 9296,
+    
+    
+    "dutiesPaid": 14783.68,
+    "drawbackClaimed": 8947.47
+  },
+  {
+    "claimID": 7542,
+    "importerName": "Importer_46",
+    "HTSCode": "9938.72.22.17",
+    "importDate": "2024-10-17",
+    "importQuantity": 9859,
+    
+    
+    "dutiesPaid": 19757.07,
+    "drawbackClaimed": 8250.73
+  },
+  {
+    "claimID": 8952,
+    "importerName": "Importer_48",
+    "HTSCode": "7883.29.21.86",
+    "importDate": "2024-06-27",
+    "importQuantity": 326,
+    
+    
+    "dutiesPaid": 2641.93,
+    "drawbackClaimed": 5967.79
+  },
+  {
+    "claimID": 8351,
+    "importerName": "Importer_2",
+    "HTSCode": "9234.29.85.38",
+    "importDate": "2024-09-09",
+    "importQuantity": 5611,
+    
+    
+    "dutiesPaid": 6401.35,
+    "drawbackClaimed": 6646.52
+  },
+  {
+    "claimID": 4405,
+    "importerName": "Importer_17",
+    "HTSCode": "6494.81.52.50",
+    "importDate": "2024-02-27",
+    "importQuantity": 5831,
+    
+    
+    "dutiesPaid": 14117.0,
+    "drawbackClaimed": 5942.32
+  },
+  {
+    "claimID": 4699,
+    "importerName": "Importer_32",
+    "HTSCode": "9762.73.76.77",
+    "importDate": "2024-06-26",
+    "importQuantity": 281,
+    
+    
+    "dutiesPaid": 4951.01,
+    "drawbackClaimed": 10140.0
+  },
+  {
+    "claimID": 6250,
+    "importerName": "Importer_42",
+    "HTSCode": "9898.53.15.27",
+    "importDate": "2024-04-03",
+    "importQuantity": 1759,
+    
+    
+    "dutiesPaid": 9517.26,
+    "drawbackClaimed": 668.11
+  },
+  {
+    "claimID": 3352,
+    "importerName": "Importer_6",
+    "HTSCode": "4961.86.82.11",
+    "importDate": "2024-10-22",
+    "importQuantity": 6237,
+    
+    
+    "dutiesPaid": 11555.13,
+    "drawbackClaimed": 3513.99
+  },
+  {
+    "claimID": 5265,
+    "importerName": "Importer_14",
+    "HTSCode": "1036.72.22.42",
+    "importDate": "2024-12-08",
+    "importQuantity": 3930,
+    
+    
+    "dutiesPaid": 7277.49,
+    "drawbackClaimed": 6033.84
+  },
+  {
+    "claimID": 7298,
+    "importerName": "Importer_12",
+    "HTSCode": "4170.21.25.41",
+    "importDate": "2024-04-04",
+    "importQuantity": 983,
+    
+    
+    "dutiesPaid": 6780.12,
+    "drawbackClaimed": 6824.15
+  },
+  {
+    "claimID": 7055,
+    "importerName": "Importer_38",
+    "HTSCode": "6477.20.28.10",
+    "importDate": "2024-03-14",
+    "importQuantity": 7876,
+    
+    
+    "dutiesPaid": 9895.78,
+    "drawbackClaimed": 13920.4
+  },
+  {
+    "claimID": 8695,
+    "importerName": "Importer_30",
+    "HTSCode": "2377.29.43.72",
+    "importDate": "2024-10-28",
+    "importQuantity": 7719,
+    
+    
+    "dutiesPaid": 1192.62,
+    "drawbackClaimed": 2266.36
+  },
+  {
+    "claimID": 6737,
+    "importerName": "Importer_3",
+    "HTSCode": "7702.81.64.51",
+    "importDate": "2024-04-17",
+    "importQuantity": 8753,
+    
+    
+    "dutiesPaid": 7484.83,
+    "drawbackClaimed": 6852.21
+  },
+  {
+    "claimID": 7635,
+    "importerName": "Importer_22",
+    "HTSCode": "7647.79.72.97",
+    "importDate": "2024-03-17",
+    "importQuantity": 1265,
+    
+    
+    "dutiesPaid": 6315.31,
+    "drawbackClaimed": 8573.87
+  },
+  {
+    "claimID": 7372,
+    "importerName": "Importer_11",
+    "HTSCode": "9882.32.22.81",
+    "importDate": "2024-12-10",
+    "importQuantity": 8775,
+    
+    
+    "dutiesPaid": 14691.2,
+    "drawbackClaimed": 1083.48
+  },
+  {
+    "claimID": 1154,
+    "importerName": "Importer_13",
+    "HTSCode": "9454.10.87.22",
+    "importDate": "2024-05-10",
+    "importQuantity": 9879,
+    
+    
+    "dutiesPaid": 5583.14,
+    "drawbackClaimed": 7466.47
+  },
+  {
+    "claimID": 9231,
+    "importerName": "Importer_2",
+    "HTSCode": "4419.57.22.89",
+    "importDate": "2024-04-03",
+    "importQuantity": 768,
+    
+    
+    "dutiesPaid": 14189.94,
+    "drawbackClaimed": 9212.58
+  },
+  {
+    "claimID": 8338,
+    "importerName": "Importer_14",
+    "HTSCode": "6221.39.45.75",
+    "importDate": "2024-02-19",
+    "importQuantity": 8020,
+    
+    
+    "dutiesPaid": 13989.61,
+    "drawbackClaimed": 2604.37
+  },
+  {
+    "claimID": 6309,
+    "importerName": "Importer_15",
+    "HTSCode": "5198.78.49.60",
+    "importDate": "2024-03-30",
+    "importQuantity": 8228,
+    
+    
+    "dutiesPaid": 14950.03,
+    "drawbackClaimed": 11132.85
+  },
+  {
+    "claimID": 1471,
+    "importerName": "Importer_44",
+    "HTSCode": "7026.42.64.24",
+    "importDate": "2024-10-28",
+    "importQuantity": 4452,
+    
+    
+    "dutiesPaid": 9178.88,
+    "drawbackClaimed": 2168.71
+  },
+  {
+    "claimID": 5668,
+    "importerName": "Importer_47",
+    "HTSCode": "5846.33.88.89",
+    "importDate": "2024-07-18",
+    "importQuantity": 9156,
+    
+    
+    "dutiesPaid": 14068.33,
+    "drawbackClaimed": 10649.48
+  },
+  {
+    "claimID": 3008,
+    "importerName": "Importer_19",
+    "HTSCode": "5453.37.94.77",
+    "importDate": "2024-07-14",
+    "importQuantity": 9223,
+    
+    
+    "dutiesPaid": 8898.73,
+    "drawbackClaimed": 960.8
+  },
+  {
+    "claimID": 5912,
+    "importerName": "Importer_13",
+    "HTSCode": "2246.92.90.28",
+    "importDate": "2024-01-03",
+    "importQuantity": 3030,
+    
+    
+    "dutiesPaid": 6804.22,
+    "drawbackClaimed": 1367.69
+  },
+  {
+    "claimID": 2984,
+    "importerName": "Importer_14",
+    "HTSCode": "1261.25.12.11",
+    "importDate": "2024-03-12",
+    "importQuantity": 8963,
+    
+    
+    "dutiesPaid": 3804.67,
+    "drawbackClaimed": 3889.93
+  },
+  {
+    "claimID": 5903,
+    "importerName": "Importer_50",
+    "HTSCode": "3503.74.81.64",
+    "importDate": "2024-02-14",
+    "importQuantity": 2882,
+    
+    
+    "dutiesPaid": 3941.65,
+    "drawbackClaimed": 4507.26
+  },
+  {
+    "claimID": 2201,
+    "importerName": "Importer_32",
+    "HTSCode": "9727.19.66.88",
+    "importDate": "2024-08-02",
+    "importQuantity": 8074,
+    
+    
+    "dutiesPaid": 1423.67,
+    "drawbackClaimed": 7047.76
+  },
+  {
+    "claimID": 1539,
+    "importerName": "Importer_2",
+    "HTSCode": "5046.48.33.42",
+    "importDate": "2024-05-01",
+    "importQuantity": 4284,
+    
+    
+    "dutiesPaid": 6791.53,
+    "drawbackClaimed": 4320.77
+  },
+  {
+    "claimID": 7622,
+    "importerName": "Importer_33",
+    "HTSCode": "9703.42.57.22",
+    "importDate": "2024-01-13",
+    "importQuantity": 861,
+    
+    
+    "dutiesPaid": 10620.32,
+    "drawbackClaimed": 12568.44
+  },
+  {
+    "claimID": 1140,
+    "importerName": "Importer_31",
+    "HTSCode": "1586.38.78.22",
+    "importDate": "2024-08-06",
+    "importQuantity": 5263,
+    
+    
+    "dutiesPaid": 3112.46,
+    "drawbackClaimed": 9369.8
+  },
+  {
+    "claimID": 5726,
+    "importerName": "Importer_47",
+    "HTSCode": "7745.91.54.18",
+    "importDate": "2024-03-05",
+    "importQuantity": 8698,
+    
+    
+    "dutiesPaid": 9583.05,
+    "drawbackClaimed": 14752.98
+  },
+  {
+    "claimID": 4429,
+    "importerName": "Importer_1",
+    "HTSCode": "2703.41.69.80",
+    "importDate": "2024-04-02",
+    "importQuantity": 2467,
+    
+    
+    "dutiesPaid": 8054.89,
+    "drawbackClaimed": 2802.99
+  },
+  {
+    "claimID": 7754,
+    "importerName": "Importer_41",
+    "HTSCode": "6330.77.86.84",
+    "importDate": "2024-12-16",
+    "importQuantity": 5530,
+    
+    
+    "dutiesPaid": 1569.76,
+    "drawbackClaimed": 14316.99
+  },
+  {
+    "claimID": 9327,
+    "importerName": "Importer_23",
+    "HTSCode": "7394.83.46.76",
+    "importDate": "2024-08-08",
+    "importQuantity": 1966,
+    
+    
+    "dutiesPaid": 12180.67,
+    "drawbackClaimed": 1878.81
+  },
+  {
+    "claimID": 3340,
+    "importerName": "Importer_11",
+    "HTSCode": "6931.43.96.16",
+    "importDate": "2024-08-19",
+    "importQuantity": 3767,
+    
+    
+    "dutiesPaid": 1798.96,
+    "drawbackClaimed": 8677.76
+  },
+  {
+    "claimID": 6204,
+    "importerName": "Importer_27",
+    "HTSCode": "1188.49.54.35",
+    "importDate": "2024-07-20",
+    "importQuantity": 353,
+    
+    
+    "dutiesPaid": 9292.63,
+    "drawbackClaimed": 14995.62
+  },
+  {
+    "claimID": 3126,
+    "importerName": "Importer_48",
+    "HTSCode": "1620.91.14.10",
+    "importDate": "2024-02-12",
+    "importQuantity": 2033,
+    
+    
+    "dutiesPaid": 19610.56,
+    "drawbackClaimed": 9477.66
+  },
+  {
+    "claimID": 1524,
+    "importerName": "Importer_46",
+    "HTSCode": "9606.15.47.13",
+    "importDate": "2024-08-26",
+    "importQuantity": 6004,
+    
+    
+    "dutiesPaid": 6636.14,
+    "drawbackClaimed": 11196.83
+  },
+  {
+    "claimID": 3937,
+    "importerName": "Importer_18",
+    "HTSCode": "6967.79.85.91",
+    "importDate": "2024-09-04",
+    "importQuantity": 5534,
+    
+    
+    "dutiesPaid": 18827.67,
+    "drawbackClaimed": 5282.38
+  },
+  {
+    "claimID": 5316,
+    "importerName": "Importer_48",
+    "HTSCode": "6395.12.14.25",
+    "importDate": "2024-04-24",
+    "importQuantity": 8899,
+    
+    
+    "dutiesPaid": 12525.16,
+    "drawbackClaimed": 4732.84
+  },
+  {
+    "claimID": 3121,
+    "importerName": "Importer_21",
+    "HTSCode": "8389.77.52.61",
+    "importDate": "2024-01-01",
+    "importQuantity": 1380,
+    
+    
+    "dutiesPaid": 3964.09,
+    "drawbackClaimed": 4296.6
+  },
+  {
+    "claimID": 8661,
+    "importerName": "Importer_18",
+    "HTSCode": "5802.88.48.51",
+    "importDate": "2024-03-02",
+    "importQuantity": 8741,
+    
+    
+    "dutiesPaid": 1093.73,
+    "drawbackClaimed": 9659.57
+  },
+  {
+    "claimID": 1903,
+    "importerName": "Importer_20",
+    "HTSCode": "7633.48.23.85",
+    "importDate": "2024-09-03",
+    "importQuantity": 2386,
+    
+    
+    "dutiesPaid": 7255.47,
+    "drawbackClaimed": 4214.15
+  },
+  {
+    "claimID": 7313,
+    "importerName": "Importer_35",
+    "HTSCode": "6945.20.81.12",
+    "importDate": "2024-11-12",
+    "importQuantity": 9552,
+    
+    
+    "dutiesPaid": 4636.08,
+    "drawbackClaimed": 8649.63
+  },
+  {
+    "claimID": 6726,
+    "importerName": "Importer_27",
+    "HTSCode": "8730.23.99.93",
+    "importDate": "2024-05-30",
+    "importQuantity": 3778,
+    
+    
+    "dutiesPaid": 16061.6,
+    "drawbackClaimed": 6571.23
+  },
+  {
+    "claimID": 3291,
+    "importerName": "Importer_4",
+    "HTSCode": "5925.82.73.38",
+    "importDate": "2024-07-23",
+    "importQuantity": 562,
+    
+    
+    "dutiesPaid": 15342.11,
+    "drawbackClaimed": 11299.7
+  },
+  {
+    "claimID": 2177,
+    "importerName": "Importer_14",
+    "HTSCode": "5647.76.28.32",
+    "importDate": "2024-10-08",
+    "importQuantity": 9191,
+    
+    
+    "dutiesPaid": 19808.93,
+    "drawbackClaimed": 3053.15
+  },
+  {
+    "claimID": 6373,
+    "importerName": "Importer_5",
+    "HTSCode": "3021.70.94.31",
+    "importDate": "2024-08-14",
+    "importQuantity": 1063,
+    
+    
+    "dutiesPaid": 7132.98,
+    "drawbackClaimed": 10552.52
+  },
+  {
+    "claimID": 5882,
+    "importerName": "Importer_7",
+    "HTSCode": "7346.20.33.95",
+    "importDate": "2024-01-21",
+    "importQuantity": 5382,
+    
+    
+    "dutiesPaid": 5228.69,
+    "drawbackClaimed": 8515.58
+  },
+  {
+    "claimID": 6428,
+    "importerName": "Importer_35",
+    "HTSCode": "3980.16.57.93",
+    "importDate": "2024-08-19",
+    "importQuantity": 2570,
+    
+    
+    "dutiesPaid": 19310.62,
+    "drawbackClaimed": 6886.38
+  },
+  {
+    "claimID": 5160,
+    "importerName": "Importer_2",
+    "HTSCode": "8910.33.82.15",
+    "importDate": "2024-08-28",
+    "importQuantity": 8241,
+    
+    
+    "dutiesPaid": 14341.32,
+    "drawbackClaimed": 7529.44
+  },
+  {
+    "claimID": 4635,
+    "importerName": "Importer_2",
+    "HTSCode": "1027.62.97.46",
+    "importDate": "2024-12-16",
+    "importQuantity": 4903,
+    
+    
+    "dutiesPaid": 14927.11,
+    "drawbackClaimed": 5224.57
+  },
+  {
+    "claimID": 4691,
+    "importerName": "Importer_32",
+    "HTSCode": "1449.40.56.66",
+    "importDate": "2024-07-04",
+    "importQuantity": 1072,
+    
+    
+    "dutiesPaid": 17856.8,
+    "drawbackClaimed": 7449.43
+  },
+  {
+    "claimID": 4802,
+    "importerName": "Importer_38",
+    "HTSCode": "5277.10.75.18",
+    "importDate": "2024-12-14",
+    "importQuantity": 8214,
+    
+    
+    "dutiesPaid": 5914.2,
+    "drawbackClaimed": 1803.05
+  },
+  {
+    "claimID": 2374,
+    "importerName": "Importer_37",
+    "HTSCode": "9316.35.38.66",
+    "importDate": "2024-01-16",
+    "importQuantity": 6485,
+    
+    
+    "dutiesPaid": 11573.86,
+    "drawbackClaimed": 5540.09
+  },
+  {
+    "claimID": 4787,
+    "importerName": "Importer_46",
+    "HTSCode": "1899.55.95.18",
+    "importDate": "2024-02-02",
+    "importQuantity": 4877,
+    
+    
+    "dutiesPaid": 6639.81,
+    "drawbackClaimed": 6110.98
+  }
+]
+
+}
