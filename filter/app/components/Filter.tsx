@@ -193,7 +193,7 @@ const Filter: React.FC<FilterProps> = ({onHandleSetClaimData, claimData}) => {
 
             if (filtersContextsData.filterProps.inputType.type === Constants.types.DATE) {
                 const timeRange = filtersContextsData.filterProps.timeRange;
-
+                console.log('saveUpdateFilter timeRange: ', timeRange);
                 editTimeRange(copiedFilter.timeRange, timeRange, (error) => {
                     if (!error) {
                         copiedFilters[index] = {
@@ -269,7 +269,10 @@ const Filter: React.FC<FilterProps> = ({onHandleSetClaimData, claimData}) => {
                 const searchFields = computeSearchFields(filters);
                 setClaims(claims);
                 setSearchFields(searchFields);
-                const results = getResults();
+                let results = getResults();
+                if(!results.length) {
+                    results =[{}];
+                }
                 onHandleSetClaimData(results);
             }
         }
