@@ -21,7 +21,7 @@
        - Provides suggestions while typing in search fields.
     - Time Range Support:
        - Multiple time ranges with validation to prevent overlaps.
-       - Specific time points like:
+       - Specific time points like (In progress):
           -twoWeeksBeforeToNow
           -oneWeekBeforeToNow
           -last30DaysToNow

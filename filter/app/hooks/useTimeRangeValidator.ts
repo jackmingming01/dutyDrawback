@@ -82,7 +82,7 @@ export const useTimeRangeValidator = (): UseTimeRangeValidatorResult => {
       callback?: (error: string | null, timeRanges: TimeRange[]) => void
     ) => {
       if (!(newRange.start instanceof Date) || !(newRange.end instanceof Date)) {
-        const err = 'Invalid date input.';
+        const err = '[Invalid Inputs] Editing mode only supports date range. Please remove the existed time point and add a new one.';
         setError(err);
         callback?.(err, timeRanges);
         return;
