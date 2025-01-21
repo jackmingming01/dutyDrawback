@@ -220,6 +220,7 @@ const Filter: React.FC<FilterProps> = ({onHandleSetClaimData, claimData}) => {
                                 inputType: filtersContextsData.filterProps.inputType,
                                 HTSCodes
                             }
+                            console.log('saveUpdateFilter copiedFilters: ', copiedFilters);
                             setFilters(copiedFilters);
                             handleReset();
                             handleReload();
@@ -259,10 +260,10 @@ const Filter: React.FC<FilterProps> = ({onHandleSetClaimData, claimData}) => {
         }, 1000)
     };
 
-    const handleSearch = () => {
+    const handleSearch = (filters) => {
         if (Array.isArray(filters) && filters.length) {
-            const claims = [...claimData];
-
+            const claims = [...filterDataContexts.originalClaims];
+            console.log('handleSearch filterDataContexts: ', filterDataContexts);
             if (claims.length) {
                 const {setClaims, setSearchFields, getResults} = searchEngineUtil();
                 const searchFields = computeSearchFields(filters);
@@ -362,7 +363,7 @@ const Filter: React.FC<FilterProps> = ({onHandleSetClaimData, claimData}) => {
                     <Button
                         variant="outline"
                         className="flex items-center space-x-1"
-                        onClick={handleSearch}
+                        onClick={() => handleSearch(filters)}
                     >
                         <MagnifyingGlassIcon className="h-5 w-5"/>
                         <span style={{"marginLeft": 0}}>Search</span>
