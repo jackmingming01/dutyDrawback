@@ -1,6 +1,6 @@
 # This is a duty drawback HTS Code filter app
 
-##1, How to start:
+## 1, How to start:
     - Start server: 
       - open server folder
       - install deps: `pip3 install --upgrade -r requirements.txt`
@@ -14,7 +14,7 @@
 
     - Open broswer and type localhost:3000, you will see the UI.
 
-##2, Features:
+## 2, Features:
     - Search Capabilities:
        - Search by HTS Code, time range, or both simultaneously.
     - Auto-complete: 
@@ -39,7 +39,7 @@
       - Add search parameters to a badge area by clicking the "Add" button.
       - Initiate search by clicking the "Search" button.
 
-##3, How to Use:
+## 3, How to Use:
     - Enter Search Criteria:
       - Type Date or HTS in the search box. Use Tab or Enter to select from auto-complete options.
       - Depending on your selection:
@@ -53,7 +53,7 @@
     - Reset Search:
       - Click 'Reset' to clear all search criteria and start anew.
 
-##4, Enjoy!
+## 4, Enjoy!
     - Feel free to explore and use the app to streamline your duty drawback claims process!
 
     
