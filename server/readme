@@ -1,2 +1,4 @@
-pip3 install --upgrade -r requirements.txt
-uvicorn app.main:app --host 0.0.0.0 --port 8000 --reload
+1, install deps 
+  pip3 install --upgrade -r requirements.txt
+2, start server, server is runing on port 8000.  
+      uvicorn app.main:app --host 0.0.0.0 --port 8000 --reload
